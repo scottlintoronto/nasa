@@ -1,4 +1,4 @@
-## Installation
+## Install in Visual Studio
 
 Install in Visual Studio
 
